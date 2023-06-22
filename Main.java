@@ -16,6 +16,7 @@ public class Main {
 	}
 	
 	public static void outputStats(){
+		//returns statistics of any string sentence input given
 		Scanner sc = new Scanner(System.in);
 		while(true) {
 		System.out.println("Enter sentence/word for statistics: \n");
